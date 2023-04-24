@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi! 👋
+### I am Falguni.
 
+- 🔭 I’m currently working on Machine Learning!
+- 🌱 I’m currently learning Optimisation, Semantic Technologies & RL.
+- 👯 I’m looking to collaborate on Reinforcement Learning.
 <!--
 **shuvoxcd01/shuvoxcd01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
