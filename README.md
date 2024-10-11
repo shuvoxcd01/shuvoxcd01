@@ -8,7 +8,7 @@
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@falguni.shuvo)
 
 
-Greetings! I am Falguni Das Shuvo, a passionate Senior Software Engineer at **Infolytx Bangladesh Limited** with a deep love for Reinforcement Learning, Large Language Models (LLM), and Machine Learning.
+Greetings! I am Falguni Das Shuvo, a Machine Learning Engineer with a deep love for Reinforcement Learning, Large Language Models (LLM), and Machine Learning.
 
 ## 🔧 Technologies & Tools
 
